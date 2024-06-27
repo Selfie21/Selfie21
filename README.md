@@ -1,5 +1,5 @@
 ### Aloha!
-
+Doing my Masters in Computer Science @ KIT!
 www.twitter.com/SelfieOW
 <!--
 **Selfie21/Selfie21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
