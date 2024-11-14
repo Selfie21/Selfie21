@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, I'm Pierre</h1>
 <h3 align="center">master student @KIT</h3>
 
-- 🔭 I’m currently working on **master thesis on evaluation of network slices using p4**
+- 🔭 I’m currently working on **my master thesis about evaluating security of network slices using p4**
 
 - 🌱 I’m currently learning **Pentesting with kali, P4**
 
-- 💬 Ask me about **python and testing**
+- 💬 Ask me about **Python and Test-driven Development**
 
 - 📫 How to reach me **pierre.brosemer@gmail.com**
 
