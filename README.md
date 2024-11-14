@@ -1,7 +1,6 @@
 ### Aloha!
-Doing my Masters in Computer Science @ KIT!
-I love python :)
-www.twitter.com/SelfieOW
+Doing my Masters in Computer Science @ KIT! //
+I love python :) //
 <!--
 **Selfie21/Selfie21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
