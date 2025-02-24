@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, I'm Pierre</h1>
-<h3 align="center">master student @KIT</h3>
+<h3 align="center">Recently got my Master of Science from KIT</h3>
 
 - 🔭 I’m currently working on **learning Rust and solving CTFs**
 
